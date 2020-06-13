@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta",
-            "price": 5.80
-        },
-        {
-            "id": 2,
-            "name": "Notebook Lenovo",
-            "price": 3800.85
-        },
-        {
-            "id": 1,
-            "name": "Geladeira Consul",
-            "price": 1800.81
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.8
+    },
+    {
+      "id": 2,
+      "name": "Notebook Lenovo",
+      "price": 3800.85
+    },
+    {
+      "id": 3,
+      "name": "Geladeira Consul",
+      "price": 1800.81
+    }
+  ]
 }

@@ -1,24 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta",
-      "price": 5.8
+      "name": "Fogão 4 Bocas",
+      "price": "750",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "Notebook Lenovo",
-      "price": 3800.85
-    },
-    {
-      "id": 3,
-      "name": "Geladeira Consul",
-      "price": 1800.81
-    },
-    {
-      "name": "Celular",
-      "price": "1001",
-      "id": 4
+      "name": "TV 50'' 4K LG",
+      "price": "2200.01",
+      "id": 3
     }
   ]
 }

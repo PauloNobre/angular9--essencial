@@ -9,6 +9,11 @@
       "name": "TV 50'' 4K LG",
       "price": "2200.01",
       "id": 3
+    },
+    {
+      "name": "Celular",
+      "price": 1000,
+      "id": 4
     }
   ]
 }
